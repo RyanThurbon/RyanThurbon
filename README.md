@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; passionate about building useful, impactful software.
+- 🤔 &nbsp; Passionate about building useful, impactful software.
 - 🔍 &nbsp; Always exploring new languages and frameworks, currently diving deep into React and modern web tech.
 - 🚀 &nbsp; Embracing a “just ship it” mindset — launch fast, learn, and improve instead of overplanning.
 - 🛠️ &nbsp; Focused on clean, maintainable systems and simple, effective solutions that put usability first.
