@@ -25,7 +25,6 @@
   ![NextJS](https://img.shields.io/badge/Next%20js-333333?style=flat&logo=nextdotjs&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 - 🛢 &nbsp;
   ![Drizzle](https://img.shields.io/badge/Drizzle-333333?style=flat&logo=drizzle&logoColor=green)
   ![Prisma](https://img.shields.io/badge/Prisma-333333?style=flat&logo=Prisma&logoColor=blue)
