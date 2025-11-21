@@ -1,4 +1,4 @@
-<img src="https://github.com/RyanThurbon/RyanThurbon/blob/main/portrait-copy.jpg" alt="Ryan Thurbon" width="150">
+<!-- <img src="https://github.com/RyanThurbon/RyanThurbon/blob/main/portrait-copy.jpg" alt="Ryan Thurbon" width="150"> -->
 
 <h2> Hi! I'm Ryan Thurbon</h2>
 
