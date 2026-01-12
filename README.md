@@ -14,8 +14,6 @@
 
 - 💻 &nbsp;
   ![Typescript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=blue)
-  ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=csharp&logoColor=blue)
-  ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=green)
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=blue)
