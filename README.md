@@ -38,8 +38,6 @@
 - 🔧 &nbsp;
   ![Webstorm](https://img.shields.io/badge/WebStorm-333333?style=flat&logo=WebStorm&logoColor=blue)
 
-<br/>
-
 <!-- <a href="https://github.com/RyanThurbon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanThurbon&theme=buefy&layout=compact" />
 </a> -->
