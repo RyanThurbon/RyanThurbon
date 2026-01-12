@@ -40,9 +40,9 @@
 
 <br/>
 
-<a href="https://github.com/RyanThurbon">
+<!-- <a href="https://github.com/RyanThurbon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanThurbon&theme=buefy&layout=compact" />
-</a>
+</a> -->
 
 <br/>
 
