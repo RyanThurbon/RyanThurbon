@@ -10,7 +10,7 @@
 - 🛠️ &nbsp; Focused on clean, maintainable systems and simple, effective solutions that put usability first.
 - 🌱 &nbsp; Always learning — from cloud services to full-stack tools — turning curiosity into better software.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Current Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Typescript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=blue)
