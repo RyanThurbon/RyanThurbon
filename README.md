@@ -40,9 +40,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanThurbon&theme=buefy&layout=compact" />
 </a> -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=RyanThurbon&label=Profile%20Views&style=flat)
-
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="start">
@@ -50,3 +47,5 @@
 <a href="https://www.linkedin.com/in/ryan-thurbon"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ryan%20Thurbon-blue?style=flat-square"/>
 <a href="mailto:ryanthurbon3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ryanthurbon3@gmail.com-blue?style=flat-square"/>
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=RyanThurbon&label=Profile%20Views&style=flat)
