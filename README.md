@@ -40,6 +40,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanThurbon&theme=buefy&layout=compact" />
 </a> -->
 
+![Profile Views](https://komarev.com/ghpvc/?username=RyanThurbon&label=Profile%20Views&style=flat)
+
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="start">
