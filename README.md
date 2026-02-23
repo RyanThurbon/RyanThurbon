@@ -30,14 +30,21 @@
 </a> -->
 
 <h4> Connect with me </h4>
-
 <p align="start">
-<a href="https://www.ryanthurbon.com/"><img alt="Personal site" src="https://img.shields.io/badge/Website-ryanthurbon.com-blue?style=flat-square"/>
-<a href="https://www.linkedin.com/in/ryan-thurbon"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ryan%20Thurbon-blue?style=flat-square"/>
-<a href="mailto:ryanthurbon3@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ryanthurbon3@gmail.com-blue?style=flat-square"/>
-<a href="#"><img alt="Email" src="https://img.shields.io/badge/Email-ryanthurbon3@gmail.com-blue?style=flat-square"/>
-<a href="https://github.com/RyanThurbon">
-  <img alt="Profile Views" 
+  <a href="https://www.ryanthurbon.com/">
+    <img alt="Personal site" src="https://img.shields.io/badge/Website-ryanthurbon.com-blue?style=flat-square"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ryan-thurbon">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ryan%20Thurbon-blue?style=flat-square"/>
+  </a>
+
+  <a href="mailto:ryanthurbon3@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-ryanthurbon3@gmail.com-blue?style=flat-square"/>
+  </a>
+
+   <a href="https://github.com/RyanThurbon">
+      <img alt="Profile Views"
        src="https://komarev.com/ghpvc/?username=RyanThurbon&label=Profile%20Views&color=blue&style=flat-square" />
-</a>
+  </a>
 </p>
