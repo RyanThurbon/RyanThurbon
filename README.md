@@ -1,14 +1,14 @@
 <!-- <img src="https://github.com/RyanThurbon/RyanThurbon/blob/main/portrait-copy.jpg" alt="Ryan Thurbon" width="150"> -->
 
-<h3> Hi! I'm Ryan Thurbon</h3>
+<h2> Hi! I'm Ryan Thurbon</h2>
 
-<h4> About me </h4>
+<h3> About me </h3>
 
 - Passionate about building useful, impactful software.
 - Always exploring new languages and frameworks, currently diving deep into React and modern web tech.
 - Focused on clean, maintainable systems and simple, effective solutions that put usability first.
 
-<h4> Current tech stack</h4>
+<h3> Current tech focus</h3>
 
   ![Typescript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=blue)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -24,12 +24,14 @@
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=blue)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=777BB4)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
 
 <!-- <a href="https://github.com/RyanThurbon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanThurbon&theme=buefy&layout=compact" />
 </a> -->
 
-<h4> Connect with me </h4>
+<h3> Connect with me </h3>
 <p align="start">
   <a href="https://www.ryanthurbon.com/">
     <img alt="Personal site" src="https://img.shields.io/badge/Website-ryanthurbon.com-blue?style=flat-square"/>
@@ -43,8 +45,8 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-ryanthurbon3@gmail.com-blue?style=flat-square"/>
   </a>
 
-   <a href="https://github.com/RyanThurbon">
+  <!--  <a href="https://github.com/RyanThurbon">
       <img alt="Profile Views"
        src="https://komarev.com/ghpvc/?username=RyanThurbon&label=Profile%20Views&color=blue&style=flat-square" />
-  </a>
+  </a> -->
 </p>
