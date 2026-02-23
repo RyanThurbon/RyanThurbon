@@ -7,7 +7,6 @@
 - 🤔 &nbsp; Passionate about building useful, impactful software.
 - 🔍 &nbsp; Always exploring new languages and frameworks, currently diving deep into React and modern web tech.
 - 🛠️ &nbsp; Focused on clean, maintainable systems and simple, effective solutions that put usability first.
-- 🌱 &nbsp; Always learning — from cloud services to full-stack tools — turning curiosity into better software.
 
 <h3> 🛠 &nbsp;Current Tech Stack</h3>
 
